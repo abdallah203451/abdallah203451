@@ -7,7 +7,7 @@ I'm **Abdallah Ashraf Ahmed**, an aspiring **Full Stack Developer** based in **H
 ## 🎓 Education
 
 - **B.Sc. Computer and Information Science**, Major in Computer Science  
-  Ain Shams University, Cairo, Egypt | Expected May 2025  
+  Ain Shams University, Cairo, Egypt 
   GPA: 3.6/4.0
 
 ## 🚀 About Me
